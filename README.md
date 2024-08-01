@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pawanyadav0104
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning mern stck
+- 🌱 I’m currently learning mern stack and dsa 
 - 💞️ I’m looking to collaborate on web developement project
 - 📫 you can contact me on pawanyadav210704@gmail.com
 - 😄 Pronouns: ...
