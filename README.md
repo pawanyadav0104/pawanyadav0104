@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @pawanyadav0104
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning mern stack and dsa 
-- 💞️ I’m looking to collaborate on web developement project
-- 📫 you can contact me on pawanyadav210704@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @pawanyadav0104  
+- 👀 Interested in Data Analytics and Web Development  
+- 🌱 Currently learning the MERN stack and Data Structures & Algorithms  
+- 💼 Looking to collaborate on real-world web development or data projects  
+- 📫 Reach me at: pawanyadav210704@gmail.com  
+- 😄 Pronouns: He/Him
 
 <!---
 pawanyadav0104/pawanyadav0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
